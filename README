@@ -8,3 +8,5 @@ The root element is an array of objects. Each object represents a specific searc
     home: A home page to display when no query is present
     search: A search url. %% is used as a place holder for the user's query.
 
+
+Join the chat at https://gitter.im/chocolat/docs
